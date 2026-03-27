@@ -6,13 +6,19 @@ Website ini adalah website yang dibuat untuk melihat progres saya dalam belajar 
 
 ---
 
+## Link Website
+https://revou-fsse-feb26.github.io/milestone-1-rizki0809/
+
 ## Fitur 
 
-- Home page
-- Project page
-- Contact page
+- Home 
+- About me
+- Project 
+- Contact 
 
 ## Teknologi yang digunakan
 
 - HTML
 - CSS
+- git
+- github
